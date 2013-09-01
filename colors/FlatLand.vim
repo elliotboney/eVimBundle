@@ -25,11 +25,9 @@ hi PmenuSel ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#3c3f42 gui=NONE
 hi IncSearch ctermfg=16 ctermbg=189 cterm=NONE guifg=#26292c guibg=#c4e2f2 gui=NONE
 hi Search ctermfg=NONE ctermbg=NONE cterm=underline guifg=NONE guibg=NONE gui=underline
 hi Directory ctermfg=150 ctermbg=NONE cterm=NONE guifg=#b8d977 guibg=NONE gui=NONE
-hi Folded ctermfg=102 ctermbg=16 cterm=NONE guifg=#798188 guibg=#26292c gui=NONE
+hi Folded ctermfg=102 ctermbg=235 cterm=NONE guifg=#798188 guibg=#26292c gui=NONE
 hi Normal guifg=NONE guibg=#00005f guisp=#00005f gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
 
-"hi Normal ctermfg=15 ctermbg=232 cterm=NONE guifg=#ffffff guibg=#272727 gui=NONE
-"hi Normal ctermfg=231 ctermbg=16 cterm=NONE guifg=#f8f8f8 guibg=#26292c gui=NONE
 hi Boolean ctermfg=150 ctermbg=NONE cterm=NONE guifg=#b8d977 guibg=NONE gui=NONE
 hi Character ctermfg=150 ctermbg=NONE cterm=NONE guifg=#b8d977 guibg=NONE gui=NONE
 hi Comment ctermfg=239 ctermbg=NONE cterm=NONE guifg=#798188 guibg=NONE gui=NONE
@@ -48,8 +46,9 @@ hi Identifier ctermfg=228 ctermbg=NONE cterm=NONE guifg=#f6f080 guibg=NONE gui=N
 hi Keyword ctermfg=209 ctermbg=NONE cterm=NONE guifg=#fa9a4b guibg=NONE gui=NONE
 hi Label ctermfg=189 ctermbg=NONE cterm=NONE guifg=#c4e2f2 guibg=NONE gui=NONE
 hi NonText guifg=NONE guibg=#1F3F3F guisp=#1F3F3F gui=NONE ctermfg=NONE ctermbg=237 cterm=NONE
-
+" Old {{{2
 "hi NonText ctermfg=102 ctermbg=59 cterm=NONE guifg=#7a8288 guibg=#313336 gui=NONE
+" }}}
 hi Number ctermfg=150 ctermbg=NONE cterm=NONE guifg=#b8d977 guibg=NONE gui=NONE
 hi Operator ctermfg=209 ctermbg=NONE cterm=NONE guifg=#fa9a4b guibg=NONE gui=NONE
 hi PreProc ctermfg=209 ctermbg=NONE cterm=NONE guifg=#fa9a4b guibg=NONE gui=NONE
