@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Blogging Like a Boss
+title: eScrit 
+tags: vim, vundle, vimrc, bundle
+
 ---
 
 eScrit
