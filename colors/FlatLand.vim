@@ -1,6 +1,3 @@
-" Vim color file
-" Converted from Textmate theme PlasticCodeWrap using Coloration v0.3.3 (http://github.com/sickill/coloration)
-
 set background=dark
 highlight clear
 
